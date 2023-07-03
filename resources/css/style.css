@@ -1,9 +1,14 @@
+:root{
+    --colorText:#0a3263;
+    --colorTitle:#ED6C23;
+}
 body {
     background-image: url('../../public/media/sfondo.png');
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: fixed;
-    color: #0a3263;
+    
+    
 }
 
 .instagram {
