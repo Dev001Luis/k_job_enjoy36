@@ -3,7 +3,7 @@
         <!-- Titolo e img carousel/slider -->
         <!-- Slider main container -->
         <div class="col-12 text-center">
-            <h1 class="fw-bold py-3 mb-3">Bagno Enjoy 36</h1>
+            <h1 class="fw-bold py-3 mb-3 titolo">Bagno Enjoy 36</h1>
         </div>
         <!-- Additional required wrapper -->
         <div class="col-10 d-flex justify-content-center align-items-center mt-4 mx-auto">
@@ -35,7 +35,7 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-10  ">
-                    <p>
+                    <p class="testo">
                         "Benvenuti al nostro incantevole bagno al mare <span class="fw-bold">Enjoy 36</span> a <em>Lido
                             di Spina</em>! Situato lungo la splendida costa, siamo il luogo ideale per immergersi
                         nell’atmosfera di relax e divertimento estivo. La nostra cucina è un vero paradiso per gli
@@ -83,8 +83,8 @@
                     </div>
                 </div>
                 <div class="col-10 col-md-6 d-block mt-5">
-                    <h2>Eccellenze di pesce e non solo..</h2><br>
-                    <p class="my-0 py-4 " >
+                    <h2 class="titolo">Eccellenze di pesce e non solo..</h2><br>
+                    <p class="my-0 py-4 testo" >
                         "Se sei in cerca di un’alternativa alla cucina di pesce, la nostra pizzeria ti delizierà con
                         pizze croccanti, condite con ingredienti di prima qualità. Gusta una fetta di autentica pizza
                         italiana mentre ammiri la vista panoramica sul mare."
@@ -100,12 +100,12 @@
         <div class="container ">
             <div class="row d-flex justify-content-center">
                 <div class="col-10 col-md-6 d-block mt-5">
-                    <h3>Spiaggia, sport e divertimento..</h3>
-                    <p class="my-0 py-4 " >
+                    <h3 class="titolo">Spiaggia, sport e divertimento..</h3>
+                    <p class="my-0 py-4 testo" >
                         "La nostra spiaggia è una distesa di sabbia dorata, perfetta per stenderti sotto il sole, rilassarti e goderti il suono delle onde. Per gli amanti dello sport, i nostri campi da beach volley e beach tennis offrono la possibilità di sfidare gli amici in partite divertenti e competitive, immersi in un’atmosfera di sano divertimento estivo."
                     </p>
                     <br>
-                    <h3>..ma anche relax e personale top!</h3>
+                    <h3 class="titolo">..ma anche relax e personale top!</h3>
                     <p>
                         "Raggiungi il massimo del relax con i nostri lettini e ombrelloni comodi e accoglienti, mentre il personale cordiale e attento si prenderà cura di te, garantendoti un’esperienza indimenticabile."
                     </p>
@@ -135,8 +135,8 @@
         <div class="container d-flex">
             <div class="row d-flex text-center">
                 <div class="col-10 justity-content-center mx-auto">
-                    <h3>Ti aspettiamo!</h3>
-                    <p class="text-center">
+                    <h3 class="titolo">Ti aspettiamo!</h3>
+                    <p class="text-center testo">
                     "Sia che tu sia alla ricerca di gustosi piatti di pesce, di una partita di beach volley o semplicemente di una giornata di relax sulla spiaggia, il nostro bagno al mare Enjoy 36 a Lido di Spina è il luogo perfetto per soddisfare tutte le tue esigenze estive."
                     </p>
                 </div>
